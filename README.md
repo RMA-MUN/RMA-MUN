@@ -3,9 +3,9 @@
 
 ## 📚 关于我
 
-- 🏫 计算机科学与技术专业本科在读生
-- 💻 技术方向：Python后端（Django/FastAPI）、数据分析
-- 📖 正在学习：Langchain/Coze， 微服务框架
+- 🏫 计算机专业的本科在读生
+- 💻 技术方向：Python后端（Django/FastAPI）、数据分析(numpy、pandas、matplotlib)
+- 📖 正在学习：Langchain/Coze， 微服务设计
 
 ## 📫 联系我
 
