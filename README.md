@@ -5,7 +5,7 @@
 
 - 🏫 计算机专业的本科在读生
 - 💻 技术方向：Python后端（FastAPI、Django)，AI应用(LangChain)
-- 📖 正在学习：PyTorch、CNN卷积神经网络与RNN循环神经网络
+- 📖 正在学习：PyTorch、Langraph
 
 ## 📫 联系我
 
