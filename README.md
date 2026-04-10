@@ -4,8 +4,8 @@
 ## 📚 关于我
 
 - 🏫 计算机专业的本科在读生
-- 💻 技术方向：Python后端（FastAPI、Django)，AI应用(LangChain)
-- 📖 正在学习：Langraph
+- 💻 技术方向：Python后端（FastAPI、Django)，AI应用(LangChain)、前端开发(Vue3)
+- 📖 正在学习：Langraph、Transformer、LoRA大模型微调
 
 ## 📫 联系我
 
